@@ -1,0 +1,1 @@
+/home/dk/reactNative/UserList/android/app/build/intermediates/cxx/RelWithDebInfo/3b6756s1/obj/arm64-v8a
